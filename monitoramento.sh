@@ -2,7 +2,7 @@
 #
 ################################################################################
 # Script para monitoramento de recursos de memória, processamento e conexões.
-# Testado no sistema operacional: Debian da versão 8.8.0
+# Testado no sistema operacional: Debian da versão 8.8.0 e Ubuntu 16.04
 #
 # Escrito por: Henrique Lima Alves Braz
 #
