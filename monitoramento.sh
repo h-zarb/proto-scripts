@@ -12,7 +12,7 @@ geraLog(){
   # coleta informacao de data e hora para log de execução do script
 Data=$(date +%d/%m/%Y)
 Hora=$(date +%H:%M)
-TIMESTAMP="em $Data as $Thora"
+TIMESTAMP="em $Data as $Hora"
 echo "Usuário $USER acessou iniciou o Script de monitoramento $TIMESTAMP" >> logmonitoramento$Data.txt
 }
 #
